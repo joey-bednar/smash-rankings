@@ -1,0 +1,201 @@
+[
+  {
+    "player": "Joey",
+    "characters": [
+      {
+        "name": "Mr. Game and Watch",
+        "icon": "mrgameandwatch.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Albert",
+    "characters": [
+      {
+        "name": "R.O.B.",
+        "icon": "rob.png"
+      },
+      {
+        "name": "Wii Fit Trainer",
+        "icon": "wiifittrainer.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Garret",
+    "characters": [
+      {
+        "name": "Olimar",
+        "icon": "olimar.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "David",
+    "characters": [
+      {
+        "name": "Joker",
+        "icon": "joker.png"
+      },
+      {
+        "name": "Pyra/Mythra",
+        "icon": "pyra.png"
+      },
+      {
+        "name": "Captain Falcon",
+        "icon": "captainfalcon.png"
+      },
+      {
+        "name": "Random",
+        "icon": "random.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Paul",
+    "characters": [
+      {
+        "name": "Cloud",
+        "icon": "cloud.png"
+      },
+      {
+        "name": "R.O.B.",
+        "icon": "rob.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Ryan",
+    "characters": [
+      {
+        "name": "Roy",
+        "icon": "roy.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Rusty",
+    "characters": [
+      {
+        "name": "Bowser Jr.",
+        "icon": "bowserjr.png"
+      },
+      {
+        "name": "Bowser",
+        "icon": "bowser.png"
+      },
+      {
+        "name": "Ridley",
+        "icon": "ridley.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Keaton",
+    "characters": [
+      {
+        "name": "Simon",
+        "icon": "simon.png"
+      },
+      {
+        "name": "Steve",
+        "icon": "steve.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+  {
+    "player": "Matt",
+    "characters": [
+      {
+        "name": "Kirby",
+        "icon": "kirby.png"
+      },
+      {
+        "name": "Lucas",
+        "icon": "lucas.png"
+      },
+      {
+        "name": "Donkey Kong",
+        "icon": "donkeykong.png"
+      },
+      {
+        "name": "Luigi",
+        "icon": "luigi.png"
+      },
+      {
+        "name": "Random",
+        "icon": "random.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+
+  {
+    "player": "Glenn",
+    "characters": [
+      {
+        "name": "Ness",
+        "icon": "ness.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+
+  {
+    "player": "Denis",
+    "characters": [
+      {
+        "name": "Pokemon Trainer",
+        "icon": "pokemontrainer.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  },
+
+  {
+    "player": "Seth",
+    "characters": [
+      {
+        "name": "Jigglypuff",
+        "icon": "jigglypuff.png"
+      },
+      {
+        "name": "Donkey Kong",
+        "icon": "donkeykong.png"
+      }
+    ],
+    "score": 1500,
+    "win": 0,
+    "loss": 0
+  }
+]
