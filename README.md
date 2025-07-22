@@ -1,35 +1,29 @@
-# smash-rankings
+# Smash Rankings
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Vue webpage displaying Super Smash Bros. Ultimate player rankings.
 
-## Recommended IDE Setup
+## Usage
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+#### Docker
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+docker build -t smash-rankings .
+docker run -p 8080:80 smash-rankings
 ```
 
-### Compile and Hot-Reload for Development
+#### Npm
 
-```sh
+```
+npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+or compile/minify for production
 
-```sh
+```
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+## Configuration
 
-```sh
-npm run lint
-```
+Player data is located in `public/data.json`. All available icons are located in `public/ssbuicons/`.
